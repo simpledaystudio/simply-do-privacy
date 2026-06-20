@@ -7,6 +7,7 @@ Last updated: May 2026
 * We do NOT collect, store, or share any personal user data.
 * All data you create within the app (tasks, categories, dates, and times) is stored locally on your own device's internal storage.
 * No data is transmitted over the internet or shared with any third parties.
+* Simply Do uses local device notifications to deliver task reminders at the times you specify. These notifications are generated entirely on your device and do not involve any remote tracking or server-side data collection.
 
 ## 2. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. 
