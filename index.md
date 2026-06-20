@@ -1,6 +1,6 @@
 # Privacy Policy for Simply Do
 
-Last updated: May 2026
+Last updated: June 2026
 
 ## 1. Information Collection and Use
 "Simply Do" is built as a completely local application. 
