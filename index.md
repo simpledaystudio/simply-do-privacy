@@ -16,4 +16,4 @@ Simply Do uses local device notifications to deliver task reminders at the times
 We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. 
 
 ## 3. Contact Us
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us.
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us. If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at simpledaystudio.ty@gmail.com. 
